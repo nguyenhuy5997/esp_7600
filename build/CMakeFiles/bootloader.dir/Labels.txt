@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/nguyenphuonglinh/eclipse-workspace/esp32_7600/build/CMakeFiles/bootloader
+C:/Users/nguyenphuonglinh/eclipse-workspace/esp32_7600/build/CMakeFiles/bootloader.rule
+C:/Users/nguyenphuonglinh/eclipse-workspace/esp32_7600/build/CMakeFiles/bootloader-complete.rule
+C:/Users/nguyenphuonglinh/eclipse-workspace/esp32_7600/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/nguyenphuonglinh/eclipse-workspace/esp32_7600/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/nguyenphuonglinh/eclipse-workspace/esp32_7600/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/nguyenphuonglinh/eclipse-workspace/esp32_7600/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/nguyenphuonglinh/eclipse-workspace/esp32_7600/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/nguyenphuonglinh/eclipse-workspace/esp32_7600/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/nguyenphuonglinh/eclipse-workspace/esp32_7600/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
